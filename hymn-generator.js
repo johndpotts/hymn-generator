@@ -56,7 +56,6 @@ const hymns = `002. Holy, Holy, Holy
 140. Down at the Cross
 141. The Old Rugged Cross
 144. When I Survey the Wondrous Cross
-145. Alas and Did My Savior Bleed
 151. The Way of the Cross Leads Home
 161. Crown Him with Many Crowns
 176. Fairest Lord Jesus
@@ -85,6 +84,7 @@ const hymns = `002. Holy, Holy, Holy
 425. He Keeps Me Singing
 426. Victory In Jesus
 430. Sunshine in My Soul
+438. Heaven Came Down
 467. There Shall Be Showers of Blessing
 484. Higher Ground
 485. Stand Up, Stand Up for Jesus
